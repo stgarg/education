@@ -21,8 +21,8 @@
 - **Indus Valley Daily Life** - ICSE history brought to life
 - **Trace Your Water** - Geography + systems thinking with Indian cities
 
-#### 3. **ICSE 4th Standard Integration Guide**
-- `icse-4th-standard-integration.md`
+#### 3. **ICSE Curriculum Integration Guide**
+- `icse-curriculum-integration.md`
 - Maps enrichment activities to specific ICSE curriculum topics
 - Subject-by-subject alignment
 - Quarterly planning guide
@@ -185,7 +185,7 @@
 ### Immediate (This Week):
 1. Read the updated `README.md`
 2. Browse `indian-context/` folder
-3. Check `icse-4th-standard-integration.md` for current school topics
+3. Check `icse-curriculum-integration.md` for current school topics
 4. Start with multilingual thinking practice
 
 ### This Month:
@@ -209,7 +209,7 @@
 3. `weekend-projects/indian-context/festivals-across-india.md`
 4. `weekend-projects/indian-context/indus-valley-daily-life.md`
 5. `weekend-projects/indian-context/trace-your-water.md`
-6. `icse-4th-standard-integration.md`
+6. `icse-curriculum-integration.md`
 7. `indian-context-review.md`
 8. `INDIAN-CONTEXT-SUMMARY.md` (this file)
 

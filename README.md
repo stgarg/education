@@ -57,7 +57,7 @@ This framework has been **deeply customized for Indian families**:
 **Key India-specific resources:**
 - `indian-context-review.md` - Detailed review of Indian contextualization
 - `weekend-projects/indian-context/` - Monsoons, festivals, Indus Valley, water systems
-- `icse-4th-standard-integration.md` - Direct mapping to ICSE curriculum
+- `icse-curriculum-integration.md` - Direct mapping to ICSE curriculum
 - `daily-practices/multilingual-thinking.md` - Leveraging India's linguistic diversity
 
 ---
